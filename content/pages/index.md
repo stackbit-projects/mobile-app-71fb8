@@ -65,6 +65,7 @@ sections:
           - mb-8
       actions:
         justifyContent: flex-start
+    subtitle: Stop switching between calendars and task lists!
   - type: FeaturedPostsSection
     variant: variant-c
     colors: colors-c
