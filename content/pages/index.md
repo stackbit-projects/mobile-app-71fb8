@@ -20,7 +20,7 @@ sections:
         altText: App Store
       - type: Button
         label: Learn More
-        url: 'https://www.stackbit.com/'
+        url: /
         style: secondary
     feature:
       type: ImageBlock
