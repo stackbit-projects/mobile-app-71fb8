@@ -71,7 +71,7 @@ sections:
     variant: variant-a
     colors: colors-a
     backgroundWidth: full
-    title: Latest news
+    title: What's Great About App Land
     subtitle: In a Glance
     actions:
       - type: Button
