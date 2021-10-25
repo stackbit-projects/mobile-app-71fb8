@@ -98,7 +98,7 @@ sections:
             textAlign: left
       - quote: |
           “A very useful project management app. I use it every day.”
-        name: Johnna Doe
+        name: Travis Guidelines
         title: Product Marketing Manager at Acme
         image:
           url: /images/dianne-ameter.jpg
