@@ -150,7 +150,7 @@ sections:
     actions:
       - type: Button
         label: App Store
-        url: 'https://www.stackbit.com/'
+        url: /
         style: primary
     actionsPosition: right
     styles:
