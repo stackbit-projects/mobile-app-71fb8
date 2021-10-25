@@ -189,7 +189,7 @@ sections:
     colors: colors-a
     backgroundWidth: full
     title: Latest news
-    subtitle: Featured blog posts section example
+    subtitle: What's up
     actions:
       - type: Button
         label: View all
