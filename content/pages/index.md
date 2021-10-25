@@ -102,7 +102,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundWidth: full
     backgroundImage:
       elementId: ''
