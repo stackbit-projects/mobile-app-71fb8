@@ -152,6 +152,7 @@ sections:
         label: App Store
         url: /
         style: primary
+        altText: App Store
     actionsPosition: right
     styles:
       self:
