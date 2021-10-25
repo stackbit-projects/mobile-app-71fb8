@@ -1,6 +1,6 @@
 ---
 title: Managing a Team Productively
-date: '2021-09-25'
+date: '2021-05-25'
 excerpt: >-
   How to handle multiple cross functional tasks and projects with App Land — the
   tools and tricks of the trade.
