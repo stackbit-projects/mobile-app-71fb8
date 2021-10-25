@@ -12,6 +12,7 @@ sections:
       useful tool for us, internally, and for you.
 
 
+      ![](/images/about.jpg)
 
 
       ## Work Life Balance
@@ -37,7 +38,7 @@ sections:
       make sure you take care of YOU and your needs. This is why we try to
       remind our users to take time off, reward themselves after a job well
       done, and put down the phone every once in a while when there's nowhere
-      you have to be, or nothing you need to do.![](/images/about.jpg)
+      you have to be, or nothing you need to do.
     styles:
       self:
         height: auto
