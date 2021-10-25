@@ -22,6 +22,7 @@ sections:
         label: Google Play
         url: /
         style: secondary
+        altText: Google Play
     feature:
       type: ImageBlock
       url: /images/appland-home-page.svg
