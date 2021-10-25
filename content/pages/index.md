@@ -78,7 +78,7 @@ sections:
         title: Head chef at Parks
         image:
           type: ImageBlock
-          url: /images/isabelle-parks.jpg
+          url: /images/person-5.png
           altText: Isabelle Parks
         styles:
           self:
