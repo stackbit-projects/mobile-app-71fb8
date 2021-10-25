@@ -143,7 +143,7 @@ sections:
   - type: CtaSection
     colors: colors-e
     backgroundWidth: full
-    title: Let's do this
+    title: Regain Control of your To Dos
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
