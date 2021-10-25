@@ -75,7 +75,7 @@ sections:
           “Fantastic app for planning your day and future tasks. Works perfectly
           everyday!”
         name: Alyvia Cope
-        title: Head chef at Parks
+        title: Design at Company
         image:
           type: ImageBlock
           url: /images/person-5.png
