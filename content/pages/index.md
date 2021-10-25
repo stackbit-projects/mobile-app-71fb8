@@ -141,7 +141,7 @@ sections:
         fontStyle: normal
         textAlign: center
   - type: CtaSection
-    colors: colors-g
+    colors: colors-f
     backgroundWidth: full
     title: Let's do this
     text: >-
