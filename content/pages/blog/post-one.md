@@ -1,5 +1,5 @@
 ---
-title: Post Title One
+title: 6 Tips to Achieve Work Life Balance
 layout: PostLayout
 date: '2021-06-28'
 author: content/data/team/dianne-ameter.json
