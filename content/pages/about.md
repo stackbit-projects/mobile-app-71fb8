@@ -5,7 +5,6 @@ sections:
     colors: colors-a
     backgroundWidth: full
     title: About
-    subtitle: The section subtitle
     text: >
       We are a team of productivity nuts that love to get stuff done without the
       stress of time management. We work together to optimize workflows,
