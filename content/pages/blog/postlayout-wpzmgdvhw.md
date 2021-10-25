@@ -2,8 +2,8 @@
 title: Right When You Need it
 date: '2021-10-25'
 excerpt: >-
-  This is the excerpt of your blog post visible in the post feed or featured
-  posts.
+  See all of your appointments, work meetings and life events in one place so
+  you know exactly where you need to be at any given time.
 featuredImage:
   type: ImageBlock
   url: /images/icon-1.svg
