@@ -41,7 +41,7 @@
                 "type": "Button",
                 "label": "Google Store",
                 "url": "/",
-                "altText": "Sign up",
+                "altText": "Google Store",
                 "style": "secondary"
             }
         ],
