@@ -1,7 +1,7 @@
 ---
 title: Making Time for What's Important
 layout: PostLayout
-date: '2021-07-01'
+date: '2021-06-01'
 author: content/data/team/hilary-ouse.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
