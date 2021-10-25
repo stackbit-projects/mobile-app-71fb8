@@ -6,7 +6,7 @@ excerpt: >-
   tools and tricks of the trade.
 featuredImage:
   type: ImageBlock
-  url: /images/post-1.jpeg
+  url: /images/post-7.jpeg
   altText: Post thumbnail image
 bottomSections: []
 layout: PostLayout
