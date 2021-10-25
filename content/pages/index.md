@@ -148,6 +148,15 @@ sections:
       Download App Land now and connect with all your calendars, project
       management tools and task lists — it doesn't get easier than this!
     actions:
+      - label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowLeft
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
       - type: Button
         label: App Store
         url: /
