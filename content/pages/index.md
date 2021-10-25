@@ -185,7 +185,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    variant: variant-c
+    variant: variant-b
     colors: colors-a
     backgroundWidth: full
     title: Latest news
