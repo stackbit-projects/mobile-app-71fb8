@@ -3,7 +3,6 @@ title: About us
 sections:
   - type: HeroSection
     title: About
-    subtitle: Who We Are
     text: >
       We are a team of productivity nuts that love to get stuff done without the
       stress of time management. We work together to optimize workflows,
