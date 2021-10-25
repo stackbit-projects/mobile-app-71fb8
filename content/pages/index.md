@@ -72,7 +72,7 @@ sections:
     colors: colors-a
     backgroundWidth: full
     title: Latest news
-    subtitle: Featured blog posts section example
+    subtitle: In a Glance
     actions:
       - type: Button
         label: View all
