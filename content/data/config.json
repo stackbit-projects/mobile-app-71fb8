@@ -39,7 +39,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Sign up",
+                "label": "Google Store",
                 "url": "/",
                 "altText": "Sign up",
                 "style": "secondary"
