@@ -149,7 +149,7 @@ sections:
       management tools and task lists — it doesn't get easier than this!
     actions:
       - type: Button
-        label: Get Started
+        label: App Store
         url: 'https://www.stackbit.com/'
         style: primary
     actionsPosition: right
