@@ -19,12 +19,6 @@
                 "altText": ""
             },
             {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
                 "label": "About",
                 "altText": "Learn more",
                 "url": "/about",
@@ -34,6 +28,12 @@
                 "style": "link",
                 "elementId": "",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "url": "/blog",
+                "altText": ""
             },
             {
                 "type": "Link",
