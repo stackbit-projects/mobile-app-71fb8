@@ -165,11 +165,10 @@ sections:
       type: ImageBlock
     title: Comprehensive Task List
     subtitle: Always be in control
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      We all have stuff to do all the time: Work tasks, calls to make, groceries
+      to buy and dry cleaning to pick up. Get all your tasks in one place for
+      easy management.
     actions:
       - type: Button
         label: Learn more
