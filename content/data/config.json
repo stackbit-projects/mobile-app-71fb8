@@ -73,7 +73,7 @@
         "backgroundWidth": "full",
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/logo.svg",
+            "url": "/images/appland-logo.svg",
             "altText": "Logo"
         },
         "title": "Minimal",
