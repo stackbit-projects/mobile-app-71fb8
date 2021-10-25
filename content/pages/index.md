@@ -74,7 +74,7 @@ sections:
       - quote: >
           “Fantastic app for planning your day and future tasks. Works perfectly
           everyday!”
-        name: Isabelle Parks
+        name: Alyvia Cope
         title: Head chef at Parks
         image:
           type: ImageBlock
