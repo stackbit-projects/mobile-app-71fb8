@@ -188,7 +188,7 @@ sections:
     variant: variant-b
     colors: colors-a
     backgroundWidth: full
-    title: Latest news
+    title: Productivity blog
     subtitle: What's up
     actions:
       - type: Button
