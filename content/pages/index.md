@@ -178,6 +178,7 @@ sections:
         elementId: hero-main-button
         altText: Learn more
         showIcon: true
+        icon: arrowRight
     feature:
       type: ImageBlock
       url: /images/hero.png
