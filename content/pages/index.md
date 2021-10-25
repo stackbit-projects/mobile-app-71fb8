@@ -17,6 +17,7 @@ sections:
         url: /
         style: primary
         elementId: hero-main-button
+        altText: App Store
       - type: Button
         label: Learn More
         url: 'https://www.stackbit.com/'
