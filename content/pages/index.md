@@ -171,7 +171,7 @@ sections:
       easy management.
     actions:
       - type: Button
-        label: Learn more
+        label: Take a look
         url: /
         style: secondary
         elementId: hero-main-button
