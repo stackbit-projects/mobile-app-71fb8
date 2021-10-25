@@ -117,7 +117,7 @@ sections:
       all your appointments and meetings appear in one place.
     actions:
       - type: Button
-        label: Get Started
+        label: Learn more
         url: /
         style: primary
         elementId: hero-main-button
