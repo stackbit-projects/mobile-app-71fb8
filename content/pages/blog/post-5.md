@@ -7,7 +7,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/post-8.jpeg
-  altText: Post thumbnail image
+  altText: When to put down your phone
 bottomSections: []
 layout: PostLayout
 ---
