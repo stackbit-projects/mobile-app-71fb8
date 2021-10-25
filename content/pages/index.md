@@ -19,7 +19,7 @@ sections:
         elementId: hero-main-button
         altText: App Store
       - type: Button
-        label: Learn More
+        label: Google Play
         url: /
         style: secondary
     feature:
