@@ -6,13 +6,39 @@ sections:
     backgroundWidth: full
     title: The Section Title
     subtitle: The section subtitle
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      We are a team of productivity nuts that love to get stuff done without the
+      stress of time management. We work together to optimize workflows,
+      understand use cases and set up our app to be the most productive and
+      useful tool for us, internally, and for you.
+
+
+
+
+      ## Work Life Balance
+
+
+      Our goal is for work and life to be controlled in one place, to help you
+      maintain a zen state of mind.
+
+
+      > "Tasks and deadlines should not control our time. We should control what
+      when to pay attention to which task." -- Lorinda Mamo, Designer
+
+
+      With App Land, we strive to make it clear and easy to follow a healthy
+      routine of work effectiveness, collaboration, and also family time and
+      social events.
+
+
+      ## We value your YOU time
+
+
+      Our team understands that life is a marathon, and it's super important to
+      make sure you take care of YOU and your needs. This is why we try to
+      remind our users to take time off, reward themselves after a job well
+      done, and put down the phone every once in a while when there's nowhere
+      you have to be, or nothing you need to do.![](/images/about.jpg)
     styles:
       self:
         height: auto
