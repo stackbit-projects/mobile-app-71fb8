@@ -4,11 +4,11 @@ sections:
   - type: HeroSection
     title: About Us
     subtitle: Who We Are
-    text: >-
-      Contrary to popular belief, Lorem Ipsum is not simply random text. It has
-      roots in a piece of classical Latin literature from 45 BC, making it over
-      2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
-      College in Virginia, looked up one of the more obscure Latin words.
+    text: >
+      We are a team of productivity nuts that love to get stuff done without the
+      stress of time management. We work together to optimize workflows,
+      understand use cases and set up our app to be the most productive and
+      useful tool for us, internally, and for you.
     feature:
       type: ImageBlock
       url: /images/about.jpg
