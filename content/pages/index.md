@@ -122,6 +122,7 @@ sections:
         style: primary
         elementId: hero-main-button
         altText: Learn more
+        icon: arrowRight
     feature:
       type: ImageBlock
       url: /images/feature-1.svg
