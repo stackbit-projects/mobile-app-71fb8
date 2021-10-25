@@ -68,7 +68,7 @@ sections:
         justifyContent: flex-start
     subtitle: Stop switching between calendars and task lists!
   - type: TestimonialsSection
-    colors: colors-e
+    colors: colors-f
     backgroundWidth: full
     testimonials:
       - quote: >-
