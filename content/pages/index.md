@@ -112,11 +112,9 @@ sections:
       type: ImageBlock
     title: Syncronized Calendar
     subtitle: For true work-life balance
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Stop juggling between calendar apps and productivity tools — from now on
+      all your appointments and meetings appear in one place.
     actions:
       - type: Button
         label: Get Started
