@@ -96,9 +96,8 @@ sections:
             fontWeight: 400
             fontStyle: normal
             textAlign: left
-      - quote: >-
-          “It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.”
+      - quote: |
+          “A very useful project management app. I use it every day.”
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
