@@ -80,6 +80,7 @@ sections:
       - content/pages/blog/post-one.md
       - content/pages/blog/postlayout-wpzmgdvhw.md
       - content/pages/blog/postlayout-psn8yjf9k.md
+      - content/pages/blog/postlayout-x3kgw2akx.md
     styles:
       self:
         height: auto
