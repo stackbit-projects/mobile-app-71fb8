@@ -13,7 +13,7 @@ sections:
       that you can use on any device.
     actions:
       - type: Button
-        label: Get Started
+        label: App Store
         url: /
         style: primary
         elementId: hero-main-button
