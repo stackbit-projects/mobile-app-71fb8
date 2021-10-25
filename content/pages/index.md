@@ -195,6 +195,7 @@ sections:
         label: View all
         url: /blog
         style: primary
+        altText: View all
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
