@@ -69,7 +69,7 @@ sections:
     subtitle: Stop switching between calendars and task lists!
   - type: TestimonialsSection
     colors: colors-f
-    backgroundWidth: full
+    backgroundWidth: inset
     testimonials:
       - quote: >
           “Fantastic app for planning your day and future tasks. Works perfectly
