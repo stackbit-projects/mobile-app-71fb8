@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-e
-    backgroundWidth: inset
+    backgroundWidth: full
     title: Instantly Boost Your Productivity
     text: >
       App Land combines your work and home calendars with all your task
