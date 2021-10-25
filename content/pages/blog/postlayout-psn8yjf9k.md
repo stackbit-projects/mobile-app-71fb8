@@ -2,8 +2,8 @@
 title: On Any Device
 date: '2021-10-25'
 excerpt: >-
-  This is the excerpt of your blog post visible in the post feed or featured
-  posts.
+  App Land synchronizes across Android and iOS phones, and on your computer or
+  tablet. See all your dates and info anywhere you are.
 featuredImage:
   type: ImageBlock
   url: /images/icon-2.svg
