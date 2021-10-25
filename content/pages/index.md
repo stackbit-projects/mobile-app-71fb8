@@ -101,7 +101,7 @@ sections:
         name: Travis Guidelines
         title: Manager at Company
         image:
-          url: /images/dianne-ameter.jpg
+          url: /images/person-6.png
           altText: Product Marketing Manager
         elementId: ''
         styles:
