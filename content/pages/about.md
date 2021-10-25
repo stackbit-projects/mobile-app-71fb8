@@ -40,7 +40,6 @@ sections:
       you have to be, or nothing you need to do.
     feature:
       type: ImageBlock
-      url: /images/about.jpg
       altText: About us
     styles:
       self:
