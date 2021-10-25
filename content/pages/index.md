@@ -7,11 +7,10 @@ sections:
     colors: colors-f
     backgroundWidth: full
     title: Instantly Boost Your Productivity
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      App Land combines your work and home calendars with all your task
+      management tools into one seamless experience controlled by a single app
+      that you can use on any device.
     actions:
       - type: Button
         label: Get Started
