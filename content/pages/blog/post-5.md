@@ -2,8 +2,8 @@
 title: When to Put Down your Phone
 date: '2021-01-20'
 excerpt: >-
-  This is the excerpt of your blog post visible in the post feed or featured
-  posts.
+  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
+  videre, nihil tranquilli potest.
 featuredImage:
   type: ImageBlock
   url: /images/post-1.jpeg
