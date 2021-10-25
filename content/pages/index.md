@@ -103,7 +103,7 @@ sections:
     type: FeaturedPostsSection
   - elementId: ''
     colors: colors-a
-    backgroundWidth: inset
+    backgroundWidth: full
     backgroundImage:
       elementId: ''
       styles:
