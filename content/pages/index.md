@@ -144,9 +144,9 @@ sections:
     colors: colors-e
     backgroundWidth: full
     title: Regain Control of your To Dos
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Download App Land now and connect with all your calendars, project
+      management tools and task lists — it doesn't get easier than this!
     actions:
       - type: Button
         label: Get Started
