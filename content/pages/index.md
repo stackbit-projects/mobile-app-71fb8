@@ -154,7 +154,7 @@ sections:
         style: primary
         altText: App Store
       - label: Google Play
-        altText: Learn more
+        altText: Google Play
         url: /
         showIcon: false
         icon: arrowLeft
