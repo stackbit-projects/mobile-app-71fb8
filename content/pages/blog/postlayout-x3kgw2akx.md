@@ -2,8 +2,8 @@
 title: Smart Notifications
 date: '2021-10-25'
 excerpt: >-
-  This is the excerpt of your blog post visible in the post feed or featured
-  posts.
+  Get color-coded notifications for easy viewing at a glance. Your tasks and
+  appointments show up conveniently in one place.
 featuredImage:
   type: ImageBlock
   url: /images/icon-3.svg
