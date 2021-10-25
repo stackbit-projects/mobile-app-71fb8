@@ -4,7 +4,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundWidth: full
-    title: The Section Title
+    title: About
     subtitle: The section subtitle
     text: >
       We are a team of productivity nuts that love to get stuff done without the
