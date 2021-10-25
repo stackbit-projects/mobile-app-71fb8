@@ -24,7 +24,7 @@ sections:
         style: secondary
     feature:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/appland-home-page.svg
       altText: Image alt text
       caption: Image caption
     styles:
