@@ -1,5 +1,5 @@
 ---
-title: Post Title
+title: When to Put Down your Phone
 date: '2021-10-25'
 excerpt: >-
   This is the excerpt of your blog post visible in the post feed or featured
