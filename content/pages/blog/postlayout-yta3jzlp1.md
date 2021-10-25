@@ -2,8 +2,8 @@
 title: Managing a Team Productively
 date: '2021-10-25'
 excerpt: >-
-  This is the excerpt of your blog post visible in the post feed or featured
-  posts.
+  How to handle multiple cross functional tasks and projects with App Land — the
+  tools and tricks of the trade.
 featuredImage:
   type: ImageBlock
   url: /images/post-1.jpeg
