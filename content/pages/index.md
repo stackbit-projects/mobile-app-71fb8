@@ -75,7 +75,6 @@ sections:
     subtitle: In a Glance
     actions: []
     posts:
-      - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
       - content/pages/blog/postlayout-wpzmgdvhw.md
