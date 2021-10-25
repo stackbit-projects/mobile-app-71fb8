@@ -153,7 +153,7 @@ sections:
         url: /
         style: primary
         altText: App Store
-      - label: Learn more
+      - label: Google Play
         altText: Learn more
         url: /
         showIcon: false
