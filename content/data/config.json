@@ -39,7 +39,7 @@
         "secondaryLinks": [
             {
                 "label": "App Store",
-                "altText": "Learn more",
+                "altText": "App Store",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowLeft",
