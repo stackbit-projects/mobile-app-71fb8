@@ -99,7 +99,7 @@ sections:
       - quote: |
           “A very useful project management app. I use it every day.”
         name: Travis Guidelines
-        title: Product Marketing Manager at Acme
+        title: Manager at Company
         image:
           url: /images/dianne-ameter.jpg
           altText: Product Marketing Manager
