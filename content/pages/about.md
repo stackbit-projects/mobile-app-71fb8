@@ -3,7 +3,7 @@ title: About us
 sections:
   - elementId: ''
     colors: colors-c
-    backgroundWidth: full
+    backgroundWidth: inset
     title: About
     text: >
       We are a team of productivity nuts that love to get stuff done without the
