@@ -2,7 +2,7 @@
 title: About us
 sections:
   - elementId: ''
-    colors: colors-a
+    colors: colors-c
     backgroundWidth: full
     title: About
     text: >
