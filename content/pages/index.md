@@ -69,7 +69,7 @@ sections:
     subtitle: Stop switching between calendars and task lists!
   - elementId: ''
     variant: variant-a
-    colors: colors-f
+    colors: colors-g
     backgroundWidth: full
     title: What's Great About App Land
     subtitle: In a Glance
