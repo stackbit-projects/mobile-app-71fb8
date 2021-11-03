@@ -133,7 +133,8 @@ sections:
         height: screen
         width: wide
         margin:
-          - mt-0
+          - mt-30
+          
           - mb-0
         padding:
           - pt-12
