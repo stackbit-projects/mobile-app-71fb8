@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-e
+    colors: colors-a
     backgroundWidth: full
     title: Instantly Boost Your Productivity
     text: >
