@@ -82,7 +82,7 @@ sections:
       subtitle:
         fontWeight: 400
         fontStyle: normal
-        textAlign: cewnter
+        textAlign: center
       text:
         textAlign: center
       actions:
