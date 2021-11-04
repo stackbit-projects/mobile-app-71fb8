@@ -88,6 +88,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+      url: /images/feature-2.svg
     styles:
       self:
         height: auto
