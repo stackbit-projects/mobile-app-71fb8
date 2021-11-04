@@ -11,10 +11,6 @@ sections:
           sustainable fish supply to home cooks.
         name: Isabelle Parks
         title: Head chef at The Cook
-        image:
-          type: ImageBlock
-          url: /images/isabelle-parks.jpg
-          altText: Photo of Isabelle Parks
         styles:
           self:
             margin:
