@@ -7,7 +7,7 @@
       @apply border-4;
   }
 
-  .sb-markdown > p > img {
+  .sb-markdown.text-center > p > img {
     margin: 0 auto;
   }
 }
