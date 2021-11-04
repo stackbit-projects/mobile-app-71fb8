@@ -86,7 +86,7 @@ sections:
       text:
         textAlign: center
       actions:
-        justifyContent: flex-start
+        justifyContent: center
     type: HeroSection
   - elementId: ''
     colors: colors-a
