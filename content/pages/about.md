@@ -47,7 +47,7 @@ sections:
         textAlign: left
     type: TestimonialsSection
   - elementId: ''
-    colors: colors-c
+    colors: colors-a
     backgroundWidth: inset
     title: About
     text: >
