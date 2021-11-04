@@ -39,7 +39,7 @@ sections:
           - pb-12
         alignItems: left
         justifyContent: left
-        
+      
       title:
         fontWeight: 700
         fontStyle: normal
