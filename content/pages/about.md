@@ -6,8 +6,8 @@ sections:
     backgroundWidth: full
     title: Testimonials
     testimonials:
-      - quote: >-
-          It’s great to see someone taking action while still maintaining a
+      - quote: >
+          # It’s great to see someone taking action while still maintaining a
           sustainable fish supply to home cooks.
         name: Isabelle Parks
         title: Head chef at The Cook
