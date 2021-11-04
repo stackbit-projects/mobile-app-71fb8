@@ -37,7 +37,7 @@ sections:
         padding:
           - pt-12
           - pb-12
-        alignItems: center
+        alignItems: left
         justifyContent: center
       title:
         fontWeight: 700
