@@ -8,7 +8,7 @@
         "isTitleVisible": true,
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/Mobile.app.png",
+            "url": "/images/Mobile.app.svg",
             "altText": "Appland"
         },
         "primaryLinks": [
