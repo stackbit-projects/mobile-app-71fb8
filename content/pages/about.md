@@ -4,7 +4,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundWidth: full
-    title: About
+    title: What's our deal you ask?
     testimonials:
       - quote: >
           # It’s great to see someone taking action while still maintaining a
