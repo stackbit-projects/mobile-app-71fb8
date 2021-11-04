@@ -47,7 +47,7 @@ sections:
       subtitle:
         fontWeight: 400
         fontStyle: normal
-        textAlign: center
+        textAlign: left
     type: TestimonialsSection
   - elementId: ''
     colors: colors-c
