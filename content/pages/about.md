@@ -7,8 +7,8 @@ sections:
     title: What's our deal you ask?
     testimonials:
       - quote: >
-          # It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.
+          # We made this really great app, and we can't wait for you to use it
+          and tell us what you think
         styles:
           self:
             margin:
