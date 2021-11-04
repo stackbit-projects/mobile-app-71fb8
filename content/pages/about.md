@@ -60,7 +60,7 @@ sections:
     actions: []
     feature:
       type: ImageBlock
-      url: /images/feature-1.svg
+      url: /images/feature-2.svg
       altText: Hero section image
     styles:
       self:
