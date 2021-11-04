@@ -10,4 +10,8 @@
   .sb-markdown.text-center > p > img {
     margin: 0 auto;
   }
+
+  .sb-markdown.text-right > p > img {
+    margin-left: auto;
+  }
 }
