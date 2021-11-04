@@ -9,7 +9,6 @@ sections:
       - quote: >
           # It’s great to see someone taking action while still maintaining a
           sustainable fish supply to home cooks.
-        name: Isabelle Parks
         title: Head chef at The Cook
         styles:
           self:
@@ -39,7 +38,6 @@ sections:
           - pb-12
         alignItems: left
         justifyContent: left
-      
       title:
         fontWeight: 700
         fontStyle: normal
