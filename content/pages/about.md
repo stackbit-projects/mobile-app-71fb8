@@ -57,7 +57,6 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    subtitle: This Is Subtitle
     actions:
       - type: Button
         label: Get Started
