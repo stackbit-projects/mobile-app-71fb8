@@ -47,48 +47,6 @@ sections:
         textAlign: left
     type: TestimonialsSection
   - elementId: ''
-    colors: colors-f
-    backgroundWidth: full
-    backgroundImage:
-      altText: lorem-ipsum
-      caption: lorem-ipsum
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
-    actions: []
-    feature:
-      type: ImageBlock
-      url: /images/feature-2.svg
-      altText: Hero section image
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: flex-start
-        flexDirection: row-reverse
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: center
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: center
-      text:
-        textAlign: center
-      actions:
-        justifyContent: center
-    type: HeroSection
-  - elementId: ''
     colors: colors-a
     backgroundWidth: inset
     title: About
