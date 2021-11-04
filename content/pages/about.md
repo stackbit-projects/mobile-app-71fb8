@@ -9,7 +9,6 @@ sections:
       - quote: >
           # It’s great to see someone taking action while still maintaining a
           sustainable fish supply to home cooks.
-        title: Head chef at The Cook
         styles:
           self:
             margin:
