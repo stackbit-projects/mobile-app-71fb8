@@ -22,7 +22,7 @@ sections:
               - mb-0
             flexDirection: col
           quote:
-            textAlign: center
+            textAlign: left
           name:
             fontWeight: 400
             fontStyle: normal
