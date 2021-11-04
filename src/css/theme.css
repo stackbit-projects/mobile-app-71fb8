@@ -7,5 +7,6 @@
       @apply border-4;
   }
 
+  .sb-markdown > p > img {}
   margin: 0 auto;
 }
