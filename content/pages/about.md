@@ -59,13 +59,6 @@ sections:
 
 
 
-
-
-
-
-      ![](/images/about.jpg)
-
-
       ## Work Life Balance
 
 
