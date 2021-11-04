@@ -6,8 +6,8 @@ sections:
     backgroundWidth: inset
     title: About
     text: >
-      We are a team of productivity nuts that love to get stuff done without the
-      stress of time management. We work together to optimize workflows,
+      # We are a team of productivity nuts that love to get stuff done without
+      the stress of time management. We work together to optimize workflows,
       understand use cases and set up our app to be the most productive and
       useful tool for us, internally, and for you.
 
