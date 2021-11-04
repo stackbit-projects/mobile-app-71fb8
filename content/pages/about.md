@@ -86,7 +86,7 @@ sections:
         fontStyle: normal
         textAlign: center
       text:
-        textAlign: center
+        textAlign: left
     type: TextSection
   - elementId: ''
     colors: colors-f
