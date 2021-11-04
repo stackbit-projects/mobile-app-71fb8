@@ -49,7 +49,6 @@ sections:
   - elementId: ''
     colors: colors-c
     backgroundWidth: full
-    title: The Section Title
     subtitle: The section subtitle
     text: |+
 
