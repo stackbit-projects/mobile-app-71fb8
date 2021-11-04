@@ -57,11 +57,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    actions:
-      - type: Button
-        label: Learn More
-        url: /
-        style: secondary
+    actions: []
     feature:
       type: ImageBlock
       url: /images/feature-1.svg
