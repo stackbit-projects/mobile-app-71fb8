@@ -51,8 +51,20 @@ sections:
     backgroundWidth: full
     title: The Section Title
     subtitle: The section subtitle
-    text: |
-      ![](/images/feature-1.svg)
+    text: |+
+      Yo this is text for Ramon
+
+
+      sdfsdfsdfsdfdsfsd
+
+      dfdfdfdfdfdfdWOOOOOPP![](/images/feature-1.svg)dfdfdfsdfsdfsdf
+
+      xcvcssdfgsdffsdfsdf
+
+      sdfdsfsdfsdfsdfsd
+
+      sdfsdfsdf
+
     styles:
       self:
         height: auto
