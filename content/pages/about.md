@@ -78,7 +78,7 @@ sections:
       title:
         fontWeight: 700
         fontStyle: normal
-        textAlign: center
+        textAlign: lecenter
       subtitle:
         fontWeight: 400
         fontStyle: normal
