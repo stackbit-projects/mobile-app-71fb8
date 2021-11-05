@@ -78,7 +78,7 @@ sections:
           opacity: 100
       type: ImageBlock
   - elementId: ''
-    colors: colors-a
+    colors: colors-b
     backgroundWidth: inset
     text: |
       ![](/images/Screen%203.svg)
