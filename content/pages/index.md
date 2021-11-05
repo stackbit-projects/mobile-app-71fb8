@@ -297,7 +297,7 @@ sections:
       - type: Button
         label: View all
         url: /blog
-        style: primary
+        style: secondary
         altText: View all
     posts:
       - content/pages/blog/post-three.md
