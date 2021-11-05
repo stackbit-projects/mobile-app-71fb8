@@ -54,7 +54,6 @@ sections:
           - mb-8
       actions:
         justifyContent: flex-start
-    subtitle: Stop switching between calendars and task lists!
     backgroundImage:
       altText: lorem-ipsum
       caption: lorem-ipsum
