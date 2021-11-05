@@ -130,7 +130,7 @@ sections:
         showIcon: true
     feature:
       type: ImageBlock
-      url: /images/Screen.svg
+      url: /images/feature-2.svg
       altText: Hero section image
     styles:
       self:
