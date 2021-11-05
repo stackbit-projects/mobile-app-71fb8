@@ -13,12 +13,6 @@ sections:
       that you can use on any device.
     actions:
       - type: Button
-        label: App Store
-        url: /
-        style: primary
-        elementId: hero-main-button
-        altText: App Store
-      - type: Button
         label: Google Play
         url: /
         style: secondary
