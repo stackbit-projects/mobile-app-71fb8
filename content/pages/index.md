@@ -124,7 +124,7 @@ sections:
       - type: Button
         label: Learn more
         url: /
-        style: primary
+        style: secondary
         elementId: hero-main-button
         altText: Learn more
         icon: arrowRight
