@@ -4,7 +4,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundWidth: full
-    title: What's our deal you ask?
+    title: We might be bias but...
     testimonials:
       - quote: >
           # We made this really great app, and we can't wait for you to use it
