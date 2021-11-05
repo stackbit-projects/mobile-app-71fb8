@@ -9,6 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   altText: Post Image
+  url: /images/Mosiac.png
 bottomSections: []
 ---
 
