@@ -107,40 +107,6 @@ sections:
         textAlign: center
     type: TextSection
   - elementId: ''
-    variant: variant-a
-    colors: colors-a
-    backgroundWidth: full
-    title: What's Great About App Land
-    subtitle: In a Glance
-    actions: []
-    posts:
-      - content/pages/blog/postlayout-wpzmgdvhw.md
-      - content/pages/blog/postlayout-psn8yjf9k.md
-      - content/pages/blog/postlayout-x3kgw2akx.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: center
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: center
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: center
-      actions:
-        justifyContent: center
-    type: FeaturedPostsSection
-  - elementId: ''
     colors: colors-a
     backgroundWidth: full
     backgroundImage:
