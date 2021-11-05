@@ -6,7 +6,7 @@ excerpt: >-
   tablet. See all your dates and info anywhere you are.
 featuredImage:
   type: ImageBlock
-  url: /images/icon-2.svg
+  url: /images/Mosiac.png
   altText: Post thumbnail image
 bottomSections: []
 layout: PostLayout
