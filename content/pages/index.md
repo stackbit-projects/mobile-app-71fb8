@@ -60,6 +60,14 @@ sections:
       actions:
         justifyContent: flex-start
     subtitle: Stop switching between calendars and task lists!
+    backgroundImage:
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
   - elementId: ''
     colors: colors-h
     backgroundWidth: full
