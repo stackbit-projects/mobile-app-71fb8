@@ -81,7 +81,7 @@ sections:
     colors: colors-f
     backgroundWidth: inset
     text: |
-      ![](/images/Tiles.svg)
+      ![](/images/Main%20image.png)
     styles:
       self:
         height: auto
