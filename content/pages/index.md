@@ -12,7 +12,7 @@ sections:
       management tools into one seamless experience controlled by a single app
       that you can use on any device.
     actions:
-      - label: Learn more
+      - label: App Store
         altText: Learn more
         url: /
         showIcon: false
