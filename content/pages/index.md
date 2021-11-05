@@ -21,6 +21,7 @@ sections:
       type: ImageBlock
       altText: Image alt text
       caption: Image caption
+      url: /images/Screen 1.png
     styles:
       self:
         height: auto
