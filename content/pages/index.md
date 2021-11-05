@@ -34,7 +34,7 @@ sections:
           - pb-8
         alignItems: center
         justifyContent: center
-        flexDirection: row-reverse
+        flexDirection: col-reverse
         borderRadius: none
         borderWidth: 0
         borderStyle: none
