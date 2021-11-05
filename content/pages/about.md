@@ -49,8 +49,8 @@ sections:
   - elementId: ''
     colors: colors-c
     backgroundWidth: full
-    text: >
-      ![](/images/%5BMockup%5D%20iPhone%2011-f61598b0.png)![](/images/%5BMockup%5D%20iPhone%2011-f61598b0.png)
+    text: |
+      ![](/images/%5BMockup%5D%20iPhone%2011-f61598b0.png)
     styles:
       self:
         height: auto
