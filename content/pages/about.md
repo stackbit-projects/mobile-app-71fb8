@@ -135,7 +135,7 @@ sections:
   - elementId: contact-form
     colors: colors-c
     backgroundWidth: full
-    title: Contact us
+    title: Want to partner with us?
     text: We look forward to hearing from you.
     form:
       type: FormBlock
