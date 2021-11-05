@@ -8,7 +8,7 @@ excerpt: >-
   semper. Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/Animated2.gif
+  url: /images/post-8.jpeg
   altText: Post Image
 bottomSections: []
 ---
