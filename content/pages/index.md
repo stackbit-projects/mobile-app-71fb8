@@ -38,7 +38,7 @@ sections:
         padding:
           - pt-8
           - pb-8
-        alignItems: flex-end
+        alignItems: center
         justifyContent: center
         flexDirection: row-reverse
         borderRadius: none
