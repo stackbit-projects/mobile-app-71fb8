@@ -81,7 +81,7 @@ sections:
     colors: colors-h
     backgroundWidth: inset
     text: |
-      ![](/images/Screen%20smaller-80dd82ed.png)
+      ![](/images/Frame%207.svg)
     styles:
       self:
         height: auto
