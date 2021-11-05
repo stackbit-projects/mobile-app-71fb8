@@ -19,7 +19,6 @@ sections:
         altText: Google Play
     feature:
       type: ImageBlock
-      url: /images/Screen 11.png
       altText: Image alt text
       caption: Image caption
     styles:
