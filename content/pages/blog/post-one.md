@@ -8,7 +8,7 @@ excerpt: >-
   eget egestas tortor pretium id. Sed imperdiet mattis eleifend.
 featuredImage:
   type: ImageBlock
-  url: /images/post-4.jpeg
+  url: /images/Mosiac.png
   altText: Post Image
 bottomSections: []
 ---
