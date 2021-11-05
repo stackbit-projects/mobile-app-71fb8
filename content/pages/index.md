@@ -287,50 +287,6 @@ sections:
         fontWeight: 400
         fontStyle: normal
         textAlign: center
-  - type: CtaSection
-    colors: colors-e
-    backgroundWidth: full
-    title: Regain Control of your To Dos
-    text: >
-      Download App Land now and connect with all your calendars, project
-      management tools and task lists — it doesn't get easier than this!
-    actions:
-      - type: Button
-        label: App Store
-        url: /
-        style: primary
-        altText: App Store
-      - label: Google Play
-        altText: Google Play
-        url: /
-        showIcon: false
-        icon: arrowLeft
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-    actionsPosition: right
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: flex-end
-        justifyContent: flex-start
-        flexDirection: col
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - elementId: ''
     variant: variant-b
     colors: colors-a
