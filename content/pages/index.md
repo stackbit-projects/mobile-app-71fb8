@@ -8,7 +8,7 @@ sections:
     backgroundWidth: full
     title: Instantly Boost Your Productivity
     text: >
-      App Land combines your work and home calendars with all your task
+      ## App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
       that you can use on any device.
     actions: []
