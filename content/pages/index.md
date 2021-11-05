@@ -11,16 +11,7 @@ sections:
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
       that you can use on any device.
-    actions:
-      - label: App Store
-        altText: Learn more
-        url: /
-        showIcon: false
-        icon: arrowLeft
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     feature:
       type: ImageBlock
       altText: Image alt text
