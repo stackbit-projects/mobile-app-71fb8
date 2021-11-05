@@ -286,6 +286,7 @@ sections:
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
+      - content/pages/blog/postlayout-psn8yjf9k.md
     styles:
       self:
         height: auto
