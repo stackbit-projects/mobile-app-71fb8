@@ -186,7 +186,7 @@ sections:
         icon: arrowRight
     feature:
       type: ImageBlock
-      url: /images/feature-1.svg
+      url: /images/appland-home-page.svg
       altText: Hero section image
     styles:
       self:
