@@ -186,7 +186,7 @@ sections:
         icon: arrowRight
     feature:
       type: ImageBlock
-      url: /images/Screen1.svg
+      url: /images/Screen 2.svg
       altText: Hero section image
     styles:
       self:
