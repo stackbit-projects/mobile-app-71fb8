@@ -81,7 +81,7 @@ sections:
     colors: colors-f
     backgroundWidth: inset
     text: |
-      ![](/images/Main%20image.png)
+      ![](/images/Main%20image-6d88eb54.png)
     styles:
       self:
         height: auto
