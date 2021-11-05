@@ -53,7 +53,7 @@ sections:
       ![](/images/About%20header.png)
     styles:
       self:
-        height: screen
+        height: auto
         width: wide
         margin:
           - mt-0
