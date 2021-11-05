@@ -80,7 +80,7 @@ sections:
       type: ImageBlock
   - elementId: ''
     colors: colors-h
-    backgroundWidth: full
+    backgroundWidth: inset
     text: |
       ![](/images/Screen%201.png)
     styles:
