@@ -194,7 +194,7 @@ sections:
         width: narrow
         margin:
           - mt-0
-          - mb-0
+          - mb-24
         padding:
           - pt-12
           - pb-12
