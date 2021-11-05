@@ -81,7 +81,7 @@ sections:
     colors: colors-h
     backgroundWidth: inset
     text: |
-      ![](/images/Screen%201.png)
+      ![](/images/Animated2.gif)
     styles:
       self:
         height: auto
