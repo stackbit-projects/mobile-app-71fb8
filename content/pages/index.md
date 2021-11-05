@@ -21,11 +21,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - type: Button
-        label: Google Play
-        url: /
-        style: secondary
-        altText: Google Play
     feature:
       type: ImageBlock
       altText: Image alt text
