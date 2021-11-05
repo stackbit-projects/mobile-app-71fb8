@@ -25,7 +25,7 @@ sections:
         altText: Google Play
     feature:
       type: ImageBlock
-      url: /images/feature-1.svg
+      url: /images/Animated2.gif
       altText: Image alt text
       caption: Image caption
     styles:
