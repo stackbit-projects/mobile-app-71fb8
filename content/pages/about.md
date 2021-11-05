@@ -47,7 +47,7 @@ sections:
         textAlign: left
     type: TestimonialsSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-f
     backgroundWidth: full
     text: |
       ![](/images/About%20header.png)
