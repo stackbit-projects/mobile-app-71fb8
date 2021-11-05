@@ -50,7 +50,7 @@ sections:
     colors: colors-c
     backgroundWidth: full
     text: |
-      ![](/images/Mosiac.png)
+      ![](/images/About%20header.png)
     styles:
       self:
         height: auto
