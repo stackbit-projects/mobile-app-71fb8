@@ -244,7 +244,7 @@ sections:
             fontStyle: normal
             textAlign: left
       - quote: |
-          “A very useful project management app. I use it every day.”
+          # “A very useful project management app. I use it every day.”
         name: Travis Guidelines
         title: Manager at Company
         image:
