@@ -46,7 +46,7 @@ sections:
           - pb-12
         alignItems: flex-start
         justifyContent: flex-end
-        flexDirection: row
+        flexDirection: col
       title:
         fontWeight: 700
         fontStyle: normal
