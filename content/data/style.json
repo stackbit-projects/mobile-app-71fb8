@@ -4,7 +4,7 @@
     "headlines": "#000000",
     "primary": "#db19b1",
     "secondary": "#11e0ab",
-    "neutral": "#0b0b0a",
+    "neutral": "#000000",
     "complementary": "#e9f6ff",
     "complementary-alt": "#000000"
 }
