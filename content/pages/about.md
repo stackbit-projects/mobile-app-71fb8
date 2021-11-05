@@ -48,7 +48,7 @@ sections:
     type: TestimonialsSection
   - elementId: ''
     colors: colors-f
-    backgroundWidth: full
+    backgroundWidth: inset
     text: |
       ![](/images/About%20header.png)
     styles:
