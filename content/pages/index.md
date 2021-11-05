@@ -159,7 +159,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    colors: colors-e
+    colors: colors-f
     backgroundWidth: inset
     backgroundImage:
       altText: lorem-ipsum
