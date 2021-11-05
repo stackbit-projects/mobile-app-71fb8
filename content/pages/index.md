@@ -32,7 +32,7 @@ sections:
         style: secondary
     feature:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/Main image-6d88eb54.png
       altText: Hero section image
     styles:
       self:
