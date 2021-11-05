@@ -50,7 +50,7 @@ sections:
     colors: colors-c
     backgroundWidth: full
     text: |
-      ![](/images/%5BMockup%5D%20iPhone%2011-f61598b0.png)
+      ![](/images/Mosiac.png)
     styles:
       self:
         height: auto
