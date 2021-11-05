@@ -201,7 +201,7 @@ sections:
     type: HeroSection
   - type: TestimonialsSection
     colors: colors-h
-    backgroundWidth: full
+    backgroundWidth: inset
     testimonials:
       - quote: >
           # “Fantastic app for planning your day and future tasks. Works
