@@ -219,8 +219,8 @@ sections:
     backgroundWidth: full
     testimonials:
       - quote: >
-          “Fantastic app for planning your day and future tasks. Works perfectly
-          everyday!”
+          # “Fantastic app for planning your day and future tasks. Works
+          perfectly everyday!”
         name: Alyvia Cope
         title: Design at Company
         image:
