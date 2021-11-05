@@ -143,62 +143,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - elementId: ''
-    colors: colors-h
-    backgroundWidth: inset
-    backgroundImage:
-      altText: lorem-ipsum
-      caption: lorem-ipsum
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
-    title: Comprehensive Task List
-    subtitle: Always be in control
-    text: >
-      We all have stuff to do all the time: Work tasks, calls to make, groceries
-      to buy and dry cleaning to pick up. Get all your tasks in one place for
-      easy management.
-    actions:
-      - type: Button
-        label: Take a look
-        url: /
-        style: secondary
-        elementId: hero-main-button
-        altText: Learn more
-        showIcon: true
-        icon: arrowRight
-    feature:
-      type: ImageBlock
-      url: /images/Frame 3-65db89c1.svg
-      altText: Hero section image
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-24
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: left
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
   - type: TestimonialsSection
     colors: colors-h
     backgroundWidth: full
@@ -272,6 +216,62 @@ sections:
         fontWeight: 400
         fontStyle: normal
         textAlign: center
+  - elementId: ''
+    colors: colors-h
+    backgroundWidth: inset
+    backgroundImage:
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
+    title: Comprehensive Task List
+    subtitle: Always be in control
+    text: >
+      We all have stuff to do all the time: Work tasks, calls to make, groceries
+      to buy and dry cleaning to pick up. Get all your tasks in one place for
+      easy management.
+    actions:
+      - type: Button
+        label: Take a look
+        url: /
+        style: secondary
+        elementId: hero-main-button
+        altText: Learn more
+        showIcon: true
+        icon: arrowRight
+    feature:
+      type: ImageBlock
+      url: /images/Frame 3-65db89c1.svg
+      altText: Hero section image
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-24
+        padding:
+          - pt-12
+          - pb-12
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: left
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
   - elementId: ''
     variant: variant-b
     colors: colors-a
