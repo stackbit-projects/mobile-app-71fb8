@@ -15,7 +15,7 @@ sections:
       - label: App Store
         altText: Learn more
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowLeft
         iconPosition: right
         style: secondary
