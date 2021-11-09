@@ -130,7 +130,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
-        borderWidth: 5
+        borderWidth: 0
       title:
         fontWeight: 700
         fontStyle: normal
